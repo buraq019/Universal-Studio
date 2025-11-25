@@ -41,9 +41,10 @@ OpenRouter: Farklı modeller denemek isterseniz.
 
 Python & Streamlit: Arayüz ve mantık.
 
-Google Generative AI SDK: Gemini 1.5 Flash entegrasyonu (Native).
+Google Generative AI SDK: Gemini entegrasyonu (Native).
 
 OpenAI SDK: Groq ve OpenRouter bağlantısı.
 
 Regex: Gelişmiş kod ayrıştırma algoritması.
+
 
