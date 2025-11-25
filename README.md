@@ -6,7 +6,7 @@ Groq , Google Gemini ve OpenRouter API'lerini aynı anda kullanarak; Planlama, T
 
 🌟 Özellikler
 
-🧠 Hibrit Motor: Planlama için hızlı Groq (Llama 3.3), ağır kodlama işleri için devasa hafızalı Google Gemini 1.5 Flash (1M Token) kullanır.
+🧠 Hibrit Motor: Planlama için hızlı Groq gibi hafif ve daha esnek kurallı, ağır kodlama işleri için devasa hafızalı Google Gemini kullanılabilir.
 
 🖥️ Canlı Önizleme (Sandbox): Oluşturulan HTML/CSS/JS projelerini anında tarayıcı içinde çalıştırır ve gösterir.
 
@@ -46,3 +46,4 @@ Google Generative AI SDK: Gemini 1.5 Flash entegrasyonu (Native).
 OpenAI SDK: Groq ve OpenRouter bağlantısı.
 
 Regex: Gelişmiş kod ayrıştırma algoritması.
+
